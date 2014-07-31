@@ -1,0 +1,9 @@
+applications:
+- services:
+  - OfferWorkbench-sam02:java
+  disk_quota: 1024M
+  host: OfferWorkbench-sam02
+  name: OfferWorkbench-sam02
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
